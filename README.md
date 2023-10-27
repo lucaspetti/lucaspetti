@@ -1,6 +1,6 @@
 ## Lucas Petti
 
-I am a software developer and musician currently living in Berlin, Germany.
+I am a software developer and musician currently living in Portugal.
 
 💻 I have experience and enjoy working with Ruby, Golang and Javascript.
 
